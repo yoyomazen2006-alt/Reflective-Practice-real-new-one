@@ -1,0 +1,4 @@
+[build]
+  base = "Reflective Practice final"
+  command = "npm install && npm run build"
+  publish = "dist"
